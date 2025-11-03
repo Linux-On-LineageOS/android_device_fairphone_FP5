@@ -401,3 +401,4 @@ PRODUCT_PACKAGES += \
 
 # Inherit from the proprietary files makefile.
 $(call inherit-product, vendor/fairphone/FP5/FP5-vendor.mk)
+$(call inherit-product, vendor/lindroid/lindroid.mk)
